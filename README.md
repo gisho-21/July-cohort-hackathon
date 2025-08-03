@@ -1,5 +1,5 @@
 # July-cohort-hackathon
-first hackathon
+First hackathon
 
 
 About Me :it explians about my background in a very short way.
